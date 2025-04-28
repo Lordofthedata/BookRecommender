@@ -96,16 +96,8 @@ pip install pandas numpy matplotlib scikit-learn scipy
 - **Evaluate Recommendations**: Implement metrics (e.g., precision, recall) using a train-test split.
 - **Productionization**: Develop a web application with an API to serve recommendations (see Task 4 in the assignment).
 
-## Contributing
-Contributions are welcome! Please:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -m 'Add your feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a pull request.
-
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
-For questions or feedback, please contact [your-email@example.com](mailto:your-email@example.com) or open an issue on GitHub.
+For questions or feedback, please open an issue on GitHub.
