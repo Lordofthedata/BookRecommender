@@ -3,7 +3,7 @@
 ## Overview
 This repository contains a Proof of Concept (PoC) for a book recommendation system developed for an online bookshop to drive sales through personalized recommendations. The system uses collaborative filtering techniques (user-based and item-based) to recommend books based on user ratings and cart contents. The project is implemented in Python using a Jupyter Notebook and leverages the [Kaggle Book Recommendation Dataset](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset).
 
-The PoC was developed as part of a 40-day project to demonstrate the feasibility of a recommendation engine. It includes data visualization, model building, recommendation functions, and testing, with notes on known issues and future improvements.
+The PoC was developed as part of a 4-hour project to demonstrate the feasibility of a recommendation engine. It includes data visualization, model building, recommendation functions, and testing, with notes on known issues and future improvements.
 
 ## Features
 - **Data Visualization**: Displays the top 10 most-rated books to understand dataset trends.
